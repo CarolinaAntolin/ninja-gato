@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+#contenedor{
+    margin-left: 600px;
+    margin-top: 200px;
+
+}
+
+#reload{
+    margin-top: 5%;
+    text-align: center;
+    width: 180px;
+}
